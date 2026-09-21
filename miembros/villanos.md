@@ -9,6 +9,8 @@
 8. Loki
 9. Brainiac
 10. Darkseid
+11. Kingpin
+12. Poison Ivy
 
 # Notas
 
