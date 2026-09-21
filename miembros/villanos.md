@@ -5,3 +5,7 @@
 4. Thanos
 5. Magneto
 6. Doctor Doom
+7. Venom
+8. Loki
+9. Brainiac
+10. Darkseid
