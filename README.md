@@ -47,6 +47,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
 - **Green Goblin** — Tecnología avanzada y tácticas de terror
+- **Darkseid** — Dueño del universo y de todas las cosas
 
 ## Reglas de la Legión
 
