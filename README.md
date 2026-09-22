@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/cmdevstudio/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/cmdevstudio/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/cmdevstudio/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/cmdevstudio/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/cmdevstudio/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
