@@ -32,3 +32,15 @@ Spiderman es un superheroe con poderes arácnidos.
 
 
 
+## Peliculas
+- Spiderman 1
+- Spiderman 2
+- Spiderman 3
+- The Amazing Spiderman 1
+- The Amazing Spiderman 2
+- Spiderman Homecoming
+- Spiderman Far From Home
+- Spiderman No Way Home
+- Spiderman Brand New Day 
+
+---
