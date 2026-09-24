@@ -10,3 +10,7 @@ Robar industrias Wayne
 3. Ejecutar el robo
 4. Obtener el control de industrias Wayne
 5. Derrotar a Batman
+
+### Finalización
+
+Disfrutar del plan finalizado
