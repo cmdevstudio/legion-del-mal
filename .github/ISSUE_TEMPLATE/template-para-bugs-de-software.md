@@ -2,7 +2,7 @@
 name: Template para bugs de Software
 about: Ayúdanos a mejorar
 title: 'Bug: '
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de Software
 assignees: cmdevstudio
 
 ---
