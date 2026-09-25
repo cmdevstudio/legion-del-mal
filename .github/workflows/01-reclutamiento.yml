@@ -29,9 +29,9 @@ jobs:
           echo "Habilidades técnicas"
           node --version
           git --version
-          phyton3 --version
-
-      -name
+          python3 --version
+      
+      - name: Capacidades del Agente
         run: |
           echo "Reconocmiento del terreno"
           ls /
